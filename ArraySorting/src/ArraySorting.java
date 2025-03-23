@@ -4,7 +4,7 @@ public class ArraySorting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Ask the user for the number of elements
+        
         System.out.print("Enter how many numbers: ");
         int n = scanner.nextInt();
 
